@@ -1,0 +1,17 @@
+{
+  "tasks": [],
+  "users": [
+    {
+      "id": 1,
+      "uname": "drashti",
+      "pwd": "123",
+      "logedin": false
+    },
+    {
+      "id": 2,
+      "uname": "femi",
+      "pwd": "1234",
+      "logedin": false
+    }
+  ]
+}
